@@ -1,5 +1,8 @@
 {
   "expo": {
-    "sdkVersion": "19.0.0"
+    "name": "Prime",
+    "slug": "prime",
+    "sdkVersion": "19.0.0",
+    "privacy": "public"
   }
 }
